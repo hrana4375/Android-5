@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="States_Names">
+        <item name="Uttarakhand"></item>
+        <item name="Punjab"></item>
+        <item name="Haryana"></item>
+        <item name="Gujarat"></item>
+    </string-array>
+
+</resources>

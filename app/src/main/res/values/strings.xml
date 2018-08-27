@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpinnerDemo</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+</resources>
